@@ -211,7 +211,7 @@
   },
   {
     "theme": "",
-    "category": "4",
+    "category": "0",
     "function": "Configuration Management",
     "feature": "2",
     "subscription_tier": "350 Built-in Models",
@@ -222,6 +222,66 @@
       "enterprise": "x"
     },
     "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "3",
+    "subscription_tier": "400 Cloud Native Patterns",
+    "comparison_tiers": {
+      "free": "",
+      "teamDesigner": "",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "1",
+    "subscription_tier": "Whiteboarding",
+    "comparison_tiers": {
+      "free": "Ability to freeform draw any shapes, draw edges",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "1",
+    "subscription_tier": "Visual Design",
+    "comparison_tiers": {
+      "free": "Drag-n-drop cloud native infrastructure designer to configure, model, and deploy your workloads",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "2",
+    "subscription_tier": "Collaborative Design Review",
+    "comparison_tiers": {
+      "free": "Kanvas’s Designer enables you to place comments “inline” within designs. Comments can be used to offer feedback to team members, take detailed design notes, capture helpful tips for team members, and include justification as to infrastructure and application configuration decisions. In-line commenting. Threaded discussions. Notifications w/user mentions. Silence notifications. Resolve and reopen comments. Comment history.",
+      "teamDesigner": "TeamDesigner",
+      "teamOperator": "",
+      "enterprise": "x"
+    },
+    "pricing_page": "",
     "docs": "x"
   },
   {
@@ -387,51 +447,6 @@
       "enterprise": "x"
     },
     "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "1",
-    "subscription_tier": "Whiteboarding",
-    "comparison_tiers": {
-      "free": "Ability to freeform draw any shapes, draw edges",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "1",
-    "subscription_tier": "Visual Design",
-    "comparison_tiers": {
-      "free": "Drag-n-drop cloud native infrastructure designer to configure, model, and deploy your workloads",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "2",
-    "subscription_tier": "Collaborative Design Review",
-    "comparison_tiers": {
-      "free": "Kanvas’s Designer enables you to place comments “inline” within designs. Comments can be used to offer feedback to team members, take detailed design notes, capture helpful tips for team members, and include justification as to infrastructure and application configuration decisions. In-line commenting. Threaded discussions. Notifications w/user mentions. Silence notifications. Resolve and reopen comments. Comment history.",
-      "teamDesigner": "TeamDesigner",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
     "docs": "x"
   },
   {
@@ -646,7 +661,7 @@
   },
   {
     "theme": "",
-    "category": "",
+    "category": "1",
     "function": "Catalog",
     "feature": "",
     "subscription_tier": "Export Design",
@@ -661,7 +676,7 @@
   },
   {
     "theme": "",
-    "category": "",
+    "category": "1",
     "function": "Catalog",
     "feature": "",
     "subscription_tier": "Export Design",
@@ -676,7 +691,7 @@
   },
   {
     "theme": "",
-    "category": "",
+    "category": "1",
     "function": "Catalog",
     "feature": "",
     "subscription_tier": "Export Design",
@@ -691,7 +706,7 @@
   },
   {
     "theme": "",
-    "category": "",
+    "category": "1",
     "function": "Catalog",
     "feature": "",
     "subscription_tier": "Export Design",
