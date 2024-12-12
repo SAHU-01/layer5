@@ -3,70 +3,55 @@
     "theme": "",
     "category": "0",
     "function": "Configuration Management",
-    "feature": "2",
-    "subscription_tier": "350 Built-in Models",
-    "comparison_tiers": {
-      "free": "Thousands of standardized components to represent complex systems, providing logical architecture of your infrastructure.",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "3",
-    "subscription_tier": "400 Cloud Native Patterns",
-    "comparison_tiers": {
-      "free": "",
-      "teamDesigner": "",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "1",
-    "subscription_tier": "Whiteboarding",
-    "comparison_tiers": {
-      "free": "Pencil for freeform drawing of any shapes",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "2",
-    "subscription_tier": "Layers",
-    "comparison_tiers": {
-      "free": "Use layers to show, hide, and group objects on the same board—perfect for building detailed diagrams or revealing project phases.",
-      "teamDesigner": "",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
     "feature": "1",
     "subscription_tier": "Infrastructure as Design",
     "comparison_tiers": {
       "free": "Drag-n-drop cloud native infrastructure designer to configure, model, and deploy your workloads",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "1",
+    "subscription_tier": "Import your IaC",
+    "comparison_tiers": {
+      "free": "Import a design from Kubernetes Manifest, Helm Chart, Docker Compose or Artifact Hub.",
+      "teamDesigner": "",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "1",
+    "subscription_tier": "Export Designs",
+    "comparison_tiers": {
+      "free": "Export a latest version of design in Meshery Design (OCI format, YAML, or JSON). Export a design in source type format (Kubernetes Manifest, Helm Chart, Docker Compose, Artifact Hub).",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "0",
+    "function": "Configuration Management",
+    "feature": "2",
+    "subscription_tier": "350 Built-in Models",
+    "comparison_tiers": {
+      "free": "Thousands of standardized components to represent complex systems, providing logical architecture of your infrastructure.",
       "teamDesigner": "Free",
       "teamOperator": "x",
       "enterprise": "x"
@@ -91,135 +76,15 @@
   },
   {
     "theme": "",
-    "category": "3",
-    "function": "GitOps",
-    "feature": "2",
-    "subscription_tier": "GitOps Snapshots",
-    "comparison_tiers": {
-      "free": "Visual insights in your pull requests in GitHub. Verify your workload designs and Kubernetes cluster configurations prior to accepting and merging pull requests.",
-      "teamDesigner": "TeamDesigner",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Catalog",
-    "feature": "1",
-    "subscription_tier": "Import your IaC",
-    "comparison_tiers": {
-      "free": "Import a design from Kubernetes Manifest, Helm Chart, Docker Compose or Artifact Hub.",
-      "teamDesigner": "",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Catalog",
-    "feature": "1",
-    "subscription_tier": "Export Designs",
-    "comparison_tiers": {
-      "free": "Export a latest version of design in Meshery Design (OCI format, YAML, or JSON). Export a design in source type format (Kubernetes Manifest, Helm Chart, Docker Compose, Artifact Hub).",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Catalog",
-    "feature": "1",
-    "subscription_tier": "Public Catalog",
-    "comparison_tiers": {
-      "free": "A library of pre-built design patterns and operational templates for common deployment scenarios, simplifying the configuration process and ensuring best practices.",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
     "category": "1",
     "function": "Lifecycle Management",
     "feature": "1",
-    "subscription_tier": "Brownfield discovery of existing infrastructure",
-    "comparison_tiers": {
-      "free": "Discover and register existing infrastructure with the Meshery Operator and MeshSync.",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Lifecycle Management",
-    "feature": "1",
-    "subscription_tier": "Topology visualization",
+    "subscription_tier": "Discovery of existing infrastructure",
     "comparison_tiers": {
       "free": "Discover clusters and/or import existing Kubernetes applications. Visualize their architecture, and gain a clear understanding of how different components interact.",
       "teamDesigner": "Free",
       "teamOperator": "x",
       "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Lifecycle Management",
-    "feature": "2",
-    "subscription_tier": "Design dry-run",
-    "comparison_tiers": {
-      "free": "Test and verify configuration changes in a separate environment.",
-      "teamDesigner": "TeamOperator",
-      "teamOperator": "",
-      "enterprise": ""
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Lifecycle Management",
-    "feature": "2",
-    "subscription_tier": "Multiple Kubernetes Clusters",
-    "comparison_tiers": {
-      "free": "Management and ongoing synchronization of cloud native infrastructure across any number of Clouds and Kubernetes clusters.",
-      "teamDesigner": "TeamOperator",
-      "teamOperator": "",
-      "enterprise": ""
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "1",
-    "function": "Lifecycle Management",
-    "feature": "2",
-    "subscription_tier": "AWS and GCP",
-    "comparison_tiers": {
-      "free": "Management and ongoing synchronization of AWS and GCP services, workloads and changes across any number of accounts.",
-      "teamDesigner": "TeamOperator",
-      "teamOperator": "",
-      "enterprise": ""
     },
     "pricing_page": "x",
     "docs": "x"
@@ -361,12 +226,117 @@
   },
   {
     "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "2",
+    "subscription_tier": "Deployment dry-run",
+    "comparison_tiers": {
+      "free": "Test and verify configuration changes in a separate environment.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "2",
+    "subscription_tier": "Multiple Kubernetes Clusters",
+    "comparison_tiers": {
+      "free": "Management and ongoing synchronization of cloud native infrastructure across any number of Clouds and Kubernetes clusters.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "2",
+    "subscription_tier": "AWS and GCP",
+    "comparison_tiers": {
+      "free": "Management and ongoing synchronization of AWS and GCP services, workloads and changes across any number of accounts.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "4",
+    "subscription_tier": "Orchestration: Pre-provisioning",
+    "comparison_tiers": {
+      "free": "Validate infrastructure configuration. Dry-run infrastructure deployment.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": ""
+  },
+  {
+    "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "4",
+    "subscription_tier": "Orchestration: Provisioning",
+    "comparison_tiers": {
+      "free": "Provision and deprovision cloud native infrastructure using your designs.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": ""
+  },
+  {
+    "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "4",
+    "subscription_tier": "Orchestration: Deprovisioning",
+    "comparison_tiers": {
+      "free": "Retract all resources used in a Meshery design from the cluster",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": ""
+  },
+  {
+    "theme": "",
     "category": "2",
     "function": "Kanvas",
     "feature": "1",
+    "subscription_tier": "Whiteboarding",
+    "comparison_tiers": {
+      "free": "Pencil for freeform drawing of any shapes",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "2",
+    "function": "Kanvas",
+    "feature": "2",
     "subscription_tier": "500 Built-in Shapes, Pen and Pencil",
     "comparison_tiers": {
-      "free": "Draw shapes, lines, text, add custom styles, images and icons to represent the components and relationships of Kubernetes clusters as they see fit. This permission grants the user the ability to delete a shape from canvas.",
+      "free": "Draw shapes, lines, text, customize style, drag and drop images and text files to represent the components and relationships of between your infrastructure components.",
       "teamDesigner": "",
       "teamOperator": "x",
       "enterprise": "x"
@@ -378,26 +348,11 @@
     "theme": "",
     "category": "2",
     "function": "Kanvas",
-    "feature": "1",
-    "subscription_tier": "Non-semantic Annotations",
-    "comparison_tiers": {
-      "free": "Kanvas Designer allows you to draw shapes, lines, text, customize style, drag and drop images and text files to represent the components and relationships of between your infrastructure components.",
-      "teamDesigner": "",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "3",
-    "function": "Workspaces",
     "feature": "3",
-    "subscription_tier": "My Workspace",
+    "subscription_tier": "Layers",
     "comparison_tiers": {
-      "free": "My Workspace is your always available, primary space for storing designs, views, and models that you own.",
-      "teamDesigner": "Free",
+      "free": "Use layers to show, hide, and group objects on the same board—perfect for building detailed diagrams or revealing project phases.",
+      "teamDesigner": "",
       "teamOperator": "x",
       "enterprise": "x"
     },
@@ -412,6 +367,51 @@
     "subscription_tier": "Load Generation and Performance Testing",
     "comparison_tiers": {
       "free": "Continuous visibility across all of your clusters and workloads. Single or multiple results in standardized format.",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "3",
+    "function": "GitOps",
+    "feature": "2",
+    "subscription_tier": "GitOps Snapshots",
+    "comparison_tiers": {
+      "free": "Visual insights in your pull requests in GitHub. Verify your workload designs and Kubernetes cluster configurations prior to accepting and merging pull requests.",
+      "teamDesigner": "TeamDesigner",
+      "teamOperator": "",
+      "enterprise": "x"
+    },
+    "pricing_page": "",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "3",
+    "function": "Performance Management",
+    "feature": "2",
+    "subscription_tier": "Performance Profiles",
+    "comparison_tiers": {
+      "free": "Storage of 500 result sets in Provider for a given Performance Profile. Capacity, soak, and burst testing supporting HTTP, HTTPS, TCP, gRPC load generation with configurable test duration, RPS, and request concurrency.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "3",
+    "function": "Workspaces",
+    "feature": "3",
+    "subscription_tier": "My Workspace",
+    "comparison_tiers": {
+      "free": "My Workspace is your always available, primary space for storing designs, views, and models that you own.",
       "teamDesigner": "Free",
       "teamOperator": "x",
       "enterprise": "x"
@@ -451,12 +451,27 @@
   },
   {
     "theme": "",
-    "category": "3",
-    "function": "Performance Management",
-    "feature": "2",
-    "subscription_tier": "Performance Profiles",
+    "category": "4",
+    "function": "Collaboration",
+    "feature": "1",
+    "subscription_tier": "Collaborative Infrastructure Design",
     "comparison_tiers": {
-      "free": "Storage of 500 result sets in Provider for a given Performance Profile. Capacity, soak, and burst testing supporting HTTP, HTTPS, TCP, gRPC load generation with configurable test duration, RPS, and request concurrency.",
+      "free": "Create and collaborate in online designs in real-time.",
+      "teamDesigner": "TeamDesigner|TeamOperator",
+      "teamOperator": "",
+      "enterprise": "x"
+    },
+    "pricing_page": "",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "4",
+    "function": "Collaboration",
+    "feature": "1",
+    "subscription_tier": "Collaborative Infrastructure Views",
+    "comparison_tiers": {
+      "free": "Simultaneously manage your infrastructure using shared views in real-time.",
       "teamDesigner": "TeamOperator",
       "teamOperator": "",
       "enterprise": ""
@@ -477,51 +492,6 @@
       "enterprise": ""
     },
     "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "4",
-    "function": "Collaboration",
-    "feature": "1",
-    "subscription_tier": "Create and collaborate in online designs in real-time.",
-    "comparison_tiers": {
-      "free": "Create and collaborate in online designs in real-time.",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "4",
-    "function": "Collaboration",
-    "feature": "2",
-    "subscription_tier": "Team Chat",
-    "comparison_tiers": {
-      "free": "Message in real-time, unattached to a specific design. Control who can pariticpate in the discussion.",
-      "teamDesigner": "Enterprise",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "4",
-    "function": "Collaboration",
-    "feature": "",
-    "subscription_tier": "Design Reviews",
-    "comparison_tiers": {
-      "free": "Discuss any design by leaving review comments or notes on a specific design. Control who has access, notify discussion participants with updates, and link from anywhere.",
-      "teamDesigner": "TeamDesigner",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
     "docs": "x"
   },
   {
@@ -552,21 +522,6 @@
       "enterprise": ""
     },
     "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "5",
-    "function": "Identity & Access Management",
-    "feature": "3",
-    "subscription_tier": "Resource Access Management",
-    "comparison_tiers": {
-      "free": "Manage access to designs on a team-by-team, or individual user, basis.",
-      "teamDesigner": "TeamDesigner",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
     "docs": "x"
   },
   {
@@ -618,45 +573,15 @@
     "theme": "",
     "category": "5",
     "function": "Identity & Access Management",
-    "feature": "6",
-    "subscription_tier": "Public Profiles for Users",
+    "feature": "3",
+    "subscription_tier": "Resource Access Management",
     "comparison_tiers": {
-      "free": "See public user profile details, public activities and public resources.",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": ""
-    },
-    "pricing_page": "",
-    "docs": ""
-  },
-  {
-    "theme": "",
-    "category": "5",
-    "function": "Identity & Access Management",
-    "feature": "6",
-    "subscription_tier": "Self-service user accounts",
-    "comparison_tiers": {
-      "free": "New user sign-up verification. Self-service password recovery.",
-      "teamDesigner": "Free",
-      "teamOperator": "x",
-      "enterprise": ""
-    },
-    "pricing_page": "",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "6",
-    "function": "Workspaces",
-    "feature": "2",
-    "subscription_tier": "Assign Environments to Workspaces",
-    "comparison_tiers": {
-      "free": "Grant workspaces access to environments and their resources.",
-      "teamDesigner": "",
+      "free": "Manage access to designs on a team-by-team, or individual user, basis.",
+      "teamDesigner": "TeamDesigner",
       "teamOperator": "",
-      "enterprise": ""
+      "enterprise": "x"
     },
-    "pricing_page": "x",
+    "pricing_page": "",
     "docs": "x"
   },
   {
@@ -676,48 +601,33 @@
   },
   {
     "theme": "",
-    "category": "7",
-    "function": "Catalog",
-    "feature": "4",
-    "subscription_tier": "Orchestration: Pre-provisioning",
+    "category": "6",
+    "function": "Workspaces",
+    "feature": "2",
+    "subscription_tier": "Assign Environments to Workspaces",
     "comparison_tiers": {
-      "free": "Validate infrastructure configuration. Dry-run infrastructure deployment.",
-      "teamDesigner": "TeamOperator",
+      "free": "Grant workspaces access to environments and their resources.",
+      "teamDesigner": "",
       "teamOperator": "",
       "enterprise": ""
     },
     "pricing_page": "x",
-    "docs": ""
+    "docs": "x"
   },
   {
     "theme": "",
     "category": "7",
     "function": "Catalog",
-    "feature": "4",
-    "subscription_tier": "Orchestration: Provisioning",
+    "feature": "1",
+    "subscription_tier": "Public Catalog: 400 Cloud Native Patterns",
     "comparison_tiers": {
-      "free": "Provision and deprovision cloud native infrastructure using your designs.",
-      "teamDesigner": "TeamOperator",
-      "teamOperator": "",
-      "enterprise": ""
+      "free": "A library of pre-built design patterns and operational templates for common deployment scenarios, simplifying the configuration process and ensuring best practices.",
+      "teamDesigner": "Free",
+      "teamOperator": "x",
+      "enterprise": "x"
     },
     "pricing_page": "x",
-    "docs": ""
-  },
-  {
-    "theme": "",
-    "category": "7",
-    "function": "Catalog",
-    "feature": "4",
-    "subscription_tier": "Orchestration: Deprovisioning",
-    "comparison_tiers": {
-      "free": "Retract all resources used in a Meshery design from the cluster",
-      "teamDesigner": "TeamOperator",
-      "teamOperator": "",
-      "enterprise": ""
-    },
-    "pricing_page": "x",
-    "docs": ""
+    "docs": "x"
   },
   {
     "theme": "",
@@ -781,7 +691,7 @@
   },
   {
     "theme": "",
-    "category": "9",
+    "category": "10",
     "function": "Support and Deployment",
     "feature": "1",
     "subscription_tier": "Community Support",
@@ -796,7 +706,7 @@
   },
   {
     "theme": "",
-    "category": "9",
+    "category": "10",
     "function": "Support and Deployment",
     "feature": "2",
     "subscription_tier": "Standard Support",
@@ -808,6 +718,21 @@
     },
     "pricing_page": "x",
     "docs": ""
+  },
+  {
+    "theme": "",
+    "category": "1",
+    "function": "Lifecycle Management",
+    "feature": "1",
+    "subscription_tier": "Environments",
+    "comparison_tiers": {
+      "free": "Operational control of infrastructure and applications by group. Deploy to multiple Environments.",
+      "teamDesigner": "TeamOperator",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
+    "docs": "x"
   },
   {
     "theme": "",
@@ -877,21 +802,6 @@
     "subscription_tier": "Connections: Cluster discovery",
     "comparison_tiers": {
       "free": "Day 2 support for ongoing synchronization of Kubernetes configuration, workloads and service mesh changes.",
-      "teamDesigner": "TeamOperator",
-      "teamOperator": "",
-      "enterprise": ""
-    },
-    "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "",
-    "function": "Environments",
-    "feature": "1",
-    "subscription_tier": "Environments",
-    "comparison_tiers": {
-      "free": "Operational control of infrastructure and applications by group. Deploy to multiple Environments.",
       "teamDesigner": "TeamOperator",
       "teamOperator": "",
       "enterprise": ""
