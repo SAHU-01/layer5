@@ -79,21 +79,6 @@
     "category": "0",
     "function": "Configuration Management",
     "feature": "6",
-    "subscription_tier": "Team Design Review",
-    "comparison_tiers": {
-      "free": "Multiple users to simultaneously edit a document, leave comments directly on specific text sections, and track changes made by others, enabling efficient collaboration and feedback loops during the review process.",
-      "teamDesigner": "TeamDesigner",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "0",
-    "function": "Configuration Management",
-    "feature": "7",
     "subscription_tier": "Design Review Notifications",
     "comparison_tiers": {
       "free": "In-line commenting. Threaded discussions. Notifications w/user mentions. Silence notifications. Resolve and reopen comments. Comment history.",
@@ -108,7 +93,7 @@
     "theme": "",
     "category": "0",
     "function": "Configuration Management",
-    "feature": "9",
+    "feature": "8",
     "subscription_tier": "Validate Infrastructure Configuration",
     "comparison_tiers": {
       "free": "Static validation of configured parameters for design completeness and accuracy.",
@@ -439,6 +424,21 @@
     "category": "4",
     "function": "Collaboration",
     "feature": "401",
+    "subscription_tier": "Team Design Review",
+    "comparison_tiers": {
+      "free": "Multiple users to simultaneously edit a document, leave comments directly on specific text sections, and track changes made by others, enabling efficient collaboration and feedback loops during the review process.",
+      "teamDesigner": "TeamDesigner",
+      "teamOperator": "",
+      "enterprise": "x"
+    },
+    "pricing_page": "",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "4",
+    "function": "Collaboration",
+    "feature": "402",
     "subscription_tier": "Collaborative Infrastructure Design",
     "comparison_tiers": {
       "free": "Create and collaborate in online designs in real-time.",
@@ -453,7 +453,7 @@
     "theme": "",
     "category": "4",
     "function": "Collaboration",
-    "feature": "402",
+    "feature": "403",
     "subscription_tier": "Public and Private Designs",
     "comparison_tiers": {
       "free": "Invite any user to collaborate on your public or private designs.",
@@ -468,7 +468,7 @@
     "theme": "",
     "category": "4",
     "function": "Collaboration",
-    "feature": "403",
+    "feature": "404",
     "subscription_tier": "Collaborative Infrastructure Views",
     "comparison_tiers": {
       "free": "Simultaneously manage your infrastructure using shared views in real-time. See the status of your deployments, monitor performance, and troubleshoot issues. Views provide tools for interacting with your cluster, such as terminal access and log streaming.",
@@ -483,7 +483,7 @@
     "theme": "",
     "category": "4",
     "function": "Collaboration",
-    "feature": "404",
+    "feature": "405",
     "subscription_tier": "Public and Private Views",
     "comparison_tiers": {
       "free": "Invite any user to collaborate on your public or private views.",
