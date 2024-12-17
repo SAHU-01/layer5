@@ -691,21 +691,6 @@
   },
   {
     "theme": "",
-    "category": "7",
-    "function": "Catalog",
-    "feature": "708",
-    "subscription_tier": "Approve Catalog Request",
-    "comparison_tiers": {
-      "free": "Change management through a process of curation of content to be published in the catalog.",
-      "teamDesigner": "Enterprise",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
-    "docs": "x"
-  },
-  {
-    "theme": "",
     "category": "8",
     "function": "Security",
     "feature": "801",
@@ -747,7 +732,7 @@
       "enterprise": "x"
     },
     "pricing_page": "x",
-    "docs": ""
+    "docs": "x"
   },
   {
     "theme": "",
