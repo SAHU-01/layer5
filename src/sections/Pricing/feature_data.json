@@ -203,7 +203,7 @@
     "comparison_tiers": {
       "free": "Export views to JSON format",
       "teamDesigner": "",
-      "teamOperator": "x",
+      "teamOperator": "",
       "enterprise": ""
     },
     "pricing_page": "x",
