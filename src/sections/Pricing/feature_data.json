@@ -102,7 +102,7 @@
       "enterprise": "x"
     },
     "pricing_page": "",
-    "docs": ""
+    "docs": "x"
   },
   {
     "theme": "",
@@ -312,7 +312,7 @@
       "enterprise": ""
     },
     "pricing_page": "x",
-    "docs": ""
+    "docs": "x"
   },
   {
     "theme": "",
@@ -687,6 +687,21 @@
       "enterprise": "x"
     },
     "pricing_page": "",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "7",
+    "function": "Catalog",
+    "feature": "707",
+    "subscription_tier": "View Filters",
+    "comparison_tiers": {
+      "free": "View all public and published filters of other team members and private of signed-in user",
+      "teamDesigner": "",
+      "teamOperator": "",
+      "enterprise": ""
+    },
+    "pricing_page": "x",
     "docs": "x"
   },
   {
