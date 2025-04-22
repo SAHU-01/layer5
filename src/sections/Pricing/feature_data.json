@@ -53,7 +53,7 @@
     "comparison_tiers": {
       "free": "Define new components, relationships, and policies as needed. Import/export your custom models as OCI images.",
       "teamDesigner": "Free",
-      "teamOperator": "x",
+      "teamOperator": "",
       "enterprise": "x"
     },
     "pricing_page": "x",
@@ -588,6 +588,21 @@
     "theme": "",
     "category": "6",
     "function": "Workspaces",
+    "feature": "603",
+    "subscription_tier": "GitOps Snapshots",
+    "comparison_tiers": {
+      "free": "Visual insights in your pull requests in GitHub. Verify your workload designs and Kubernetes cluster configurations prior to accepting and merging pull requests.",
+      "teamDesigner": "TeamDesigner",
+      "teamOperator": "",
+      "enterprise": "x"
+    },
+    "pricing_page": "",
+    "docs": "x"
+  },
+  {
+    "theme": "",
+    "category": "6",
+    "function": "Workspaces",
     "feature": "605",
     "subscription_tier": "Manage Workspace Team and Environment Access",
     "comparison_tiers": {
@@ -612,21 +627,6 @@
       "enterprise": "x"
     },
     "pricing_page": "x",
-    "docs": "x"
-  },
-  {
-    "theme": "",
-    "category": "6",
-    "function": "Workspaces",
-    "feature": "603",
-    "subscription_tier": "GitOps Snapshots",
-    "comparison_tiers": {
-      "free": "Visual insights in your pull requests in GitHub. Verify your workload designs and Kubernetes cluster configurations prior to accepting and merging pull requests.",
-      "teamDesigner": "TeamDesigner",
-      "teamOperator": "",
-      "enterprise": "x"
-    },
-    "pricing_page": "",
     "docs": "x"
   },
   {
